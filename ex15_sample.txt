@@ -1,0 +1,2 @@
+This is a sample file for exercise 15. 
+The purpose of this exercise is to learn about reading files. 
